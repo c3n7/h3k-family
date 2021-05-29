@@ -1,0 +1,9 @@
+[submodule "h3k-client"]
+	path = h3k-client
+	url = https://github.com/c3n7/h3k-client
+[submodule "h3k-parent"]
+	path = h3k-parent
+	url = https://github.com/c3n7/h3k-parent
+[submodule "h3k-child"]
+	path = h3k-child
+	url = https://github.com/c3n7/h3k-child
